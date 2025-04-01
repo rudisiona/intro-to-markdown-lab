@@ -5,7 +5,7 @@ Though using your terminal to create files and directories may seem more complic
 
 ## 1. Basics of the Terminal
 
-`pwd` -> This command tells you the directory you are in, and the path to get there </br>
+`pwd` -> This command tells you the directory you are in, and the path to get there.
 
 **Example:**
 ```
@@ -37,7 +37,7 @@ labs
 ```
  ## 3. Making a file
 
-`touch` -> This command will create  file in the directory you are currently in.
+`touch` -> This command will create a file in the directory you are currently in.
 
 **Example:**
 
